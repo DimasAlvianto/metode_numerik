@@ -27,4 +27,4 @@ root = find_root_bisection(a, b, tolerance)
 if root is not None:
     print(f"Akar persamaan f(x) = x^2 - 6x + 5 = 0 dalam selang [{a}, {b}] adalah {root}")
 
-Hasil Codingan Persamaan Akar Di atas Adalah (5,0)
+Hasil persamaan Di atas Adalah (5,0)
